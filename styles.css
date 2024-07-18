@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f9f9f9;
+    background: #1e1e1e;
+}
+
+.start {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.manual {
+    margin: 5rem;
+    font-size: large;
+}
+
+.main_ico {
+    margin-right: 20px;
+}
+
+
+.framed {
+    border: 0.7rem solid #b1b1b1;
+    background-color: #f9f9f9;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.image-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
